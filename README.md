@@ -1,77 +1,52 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Kenn <img src="https://raw.githubusercontent.com/tonsky/FiraCode/master/distr/ttf/FiraCode-Regular.ttf" width="0" height="0"></h1>
-<p align="center">Belajar pemrograman, bikin hal sederhana yang bermanfaat.</p>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-  <a href="https://github.com/scendy17?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/scendy17?style=flat&color=0ea5e9&label=Followers">
-  </a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=scendy17&style=flat&color=22c55e">
-  <a href="https://github.com/scendy17">
-    <img alt="Stars" src="https://img.shields.io/github/stars/scendy17?style=flat&color=f59e0b">
-  </a>
-</p>
+###
 
-<div align="left">
-  <a href="https://discord.com/users/728593659058061423">
-    <img src="https://lanyard.cnrad.dev/api/728593659058061423?showDisplayName=true&hideActivity=whenNotUsed&hideTimestamp=false&bg=:#1e2124&borderRadius=10px&hideStatus=false&hideDiscriminator=false&idleMessage=Probably%20coding%20something%20cool..." alt="Discord Presence" />
-  </a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
----
+###
 
-### Tentang Saya
- mancengg fish it
-
----
-
-### **Bahasa Pemrograman**
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-### **Alat**
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=scennmieayam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=scennmieayam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-### Stats
-<div align="left">
-  <a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=scennmieayam&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=dark&include_all_commits=true&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=scennmieayam&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=dark&&include_all_commits=true&layout=compact"/>
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scennmieayam/scennmieayam/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scennmieayam/scennmieayam/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/scennmieayam/scennmieayam/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-### Kontak
-- E-mail: <a href="mailto:scendy17@gmail.com">scendy17</a>
-<!-- - (Opsional) Tambahkan email/LinkedIn/Discord di sini -->
-
----
-
-<p align="center">Terima kasih sudah mampir! Kalau bermanfaat, jangan lupa ⭐ wokk</p>
-
-<!--
-**scendy17/scendy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
